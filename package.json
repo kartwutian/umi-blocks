@@ -1,0 +1,28 @@
+{
+  "name": "@umi-block/video",
+  "version": "0.0.1",
+  "description": "a video iframe",
+  "main": "src/index.js",
+  "authors": {
+    "name": "bhz",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kartwutian/umi-blocks.git"
+  },
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "antd": "^3.22.2",
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.0.0",
+    "umi-plugin-block-dev": "^2.0.0",
+    "umi-plugin-react": "^1.9.19",
+    "umi-types": "^0.3.0"
+  },
+  "license": "MIT"
+}
