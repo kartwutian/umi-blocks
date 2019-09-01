@@ -1,5 +1,5 @@
 {
-  "name": "@umi-block/video",
+  "name": "@umi-blocks",
   "version": "0.0.1",
   "description": "a video iframe",
   "main": "src/index.js",
@@ -7,7 +7,6 @@
     "name": "bhz",
     "email": ""
   },
-  "repository": "https://github.com/kartwutian/umi-blocks/tree/master",
   "scripts": {
     "dev": "umi dev"
   },
