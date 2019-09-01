@@ -7,10 +7,7 @@
     "name": "bhz",
     "email": ""
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:kartwutian/umi-blocks.git"
-  },
+  "repository": "https://github.com/kartwutian/umi-blocks/tree/master",
   "scripts": {
     "dev": "umi dev"
   },
